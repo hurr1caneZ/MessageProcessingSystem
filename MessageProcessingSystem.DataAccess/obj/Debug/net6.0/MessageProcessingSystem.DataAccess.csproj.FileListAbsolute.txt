@@ -1,0 +1,14 @@
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\bin\Debug\net6.0\MessageProcessingSystem.DataAccess.deps.json
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\bin\Debug\net6.0\MessageProcessingSystem.DataAccess.runtimeconfig.json
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\bin\Debug\net6.0\MessageProcessingSystem.DataAccess.dll
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\bin\Debug\net6.0\MessageProcessingSystem.DataAccess.pdb
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\MessageProcessingSystem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\MessageProcessingSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\MessageProcessingSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\MessageProcessingSystem.DataAccess.AssemblyInfo.cs
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\MessageProcessingSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\MessageProcessingSystem.DataAccess.dll
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\refint\MessageProcessingSystem.DataAccess.dll
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\MessageProcessingSystem.DataAccess.pdb
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\MessageProcessingSystem.DataAccess.genruntimeconfig.cache
+C:\Users\sdc_a\RiderProjects\MessageProcessingSystem\MessageProcessingSystem.DataAccess\obj\Debug\net6.0\ref\MessageProcessingSystem.DataAccess.dll
